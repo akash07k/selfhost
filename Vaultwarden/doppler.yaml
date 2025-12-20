@@ -1,0 +1,3 @@
+setup:
+  - project: vaultwarden
+    config: dev_personal
