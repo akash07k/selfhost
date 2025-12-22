@@ -1,0 +1,3 @@
+setup:
+  - project: miniflux
+    config: dev_personal
