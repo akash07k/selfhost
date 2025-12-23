@@ -1,7 +1,3 @@
 # Secrets
 _keys
 **/.env.keys
-
-# Bind mounts
-vaultwarden/vw-data
-miniflux/miniflux-db

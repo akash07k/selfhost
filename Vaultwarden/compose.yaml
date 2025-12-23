@@ -30,7 +30,7 @@ services:
       - YUBICO_SECRET_KEY
 
     volumes:
-      - ./vw-data:/data # the path before the : can be changed
+      - ~/docker-volumes/vw-data:/data # the path before the : can be changed
       - /etc/localtime:/etc/localtime:ro
       - /etc/timezone:/etc/timezone:ro
 
